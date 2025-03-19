@@ -1,0 +1,59 @@
+Tagraíonn ríomhaireacht do na feidhmeanna agus úsáidí a bhaintear as innill agus córais ríomhaireachta. Áirítear leis sin na próisis leictreacha a tharlaíonn laistigh de chomhpháirteanna ríomhaireachta (crua-earraí) agus na sonraí agus na treoracha a bhíonn á bpróiseáil ag na córais sin (bogearraí). Áirítear leis freisin na coincheapa teoiriciúla lena rialaítear córais ríomhaireachta (ríomheolaíocht). B'fhiú breathnú ar an gcatagóir Catagóir:Ríomhaireacht le haghaidh briseadh síos ar na réimsí ríomhaireachta éagsúla.
+
+Innealra an ríomhaire pearsanta
+Is é atá ann i ríomhaire pearsanta tipiciúil ná cás nó fráma i gcruth deisce nó túir agus na páirteanna seo a leanas:
+
+Aonaid fhorimeallacha eile
+Chomh maith le seo, is féidir comhpháirteanna seachtracha an chórais ríomhaireachta a liostáil faoi chrua-earraí. Tá na samplaí seo a leanas caighdeánach nó an-choiteann.
+
+Cuid de	ríomhaire
+Séard is brí le bogearra ná ríomhchlár a bhronnann gnéithe agus feidhmíochtaí bhreise ar ríomhairí. Ríomhchláir ata ann a choinnítear ar chóras ríomhaireachta agus a ritear chun tascanna ríomhaireachta a chur i gcrích.
+
+Suiteáiltear bogearraí ar ríomhairí ionas gur féidir leis na daoine a bhaineann feidhm as ríomhairí a thuilleadh obair a dhéanamh agus leas níos mó a bhaint as an ríomhaire. Inneallra na rudaí nithiúla atá mar chuid de ríomhaire amhail scáileán, luchóg, méarchlár agus an tiomántán.
+
+Cineálacha
+Is iomaí cineál bogearraí atá ann. Tá bogearraí ann ionas gur féidir le daoine cáipéisí a chlóscríobh. Tá bogearraí ann a bhaineann leis an gréasán domhanda amhail líonléitheoirí, bainisteoirí ríomhphoist is araile. Aicme eile ná bogearraí a bhaineann le seinm meáin amhail seinnteoir meán a sheinneann ceol agus físeáin.
+
+Is féidir grianghraif a chur in eagar ar ríomhairí freisin. Is iomaí cineál bogearraí atá ann chun inneall a chur ar chnuasaigh ghrianghraif. Is féidir leas a bhaint as bogearraí áirithe chun teagmháil a dhéanamh le daoine. Is féidir comhrá a dhéanamh agus glao ar dhaoine trí fheidhm a bhaint as bogearraí amhail Skype.
+
+Is féidir bogearraí a rangú de réir a úsáide:
+
+Tugtar teanga ríomhchlárúcháin ar theanga shaorga ar bith a úsáidtear chun meaisín, ach go háirithe ríomhaire, a stiúradh. Cosúil le teangacha daonna, tá rialacha na comhréire is na séimeantaice ag baint le teangacha ríomhchlárúcháin.
+
+Cuspóir
+Úsáidtear teangacha ríomhchlárúcháin don chuid is mó chun treoracha a sholáthar do ríomhaire.
+
+Stair
+Is ón ré réamh-ríomhaireachta iad na chéad teangacha ríomhchlárúcháin. I rith an 19ú haois rinneadh forbairt ar sheolta agus ar phianónna meicniúla a bhí "in-ríomhchláraithe". Glactar leis gurbh iad nótaí Ada Lovelace chun uimhreacha Bernoulli a ríomh ar an Inneall Anailíse a cheap Babbage an chéad shampla de ríomhchlár, cé nach teanga ríomhchlárúcháin fhoirmiúil a bhí i gceist. I 1936 thug forbairt meaisín Turing foirm theoiriciúil do theanga ríomhchlárúcháin. Le linn na 1940í tháinig na chéad ríomhairí leictreacha ar an saol agus glactar leis an dteanga a úsáidtear orthu, meaisínchód, mar an chéad ghlúin teangacha. Oibríonn an meaisínchód ar leibhéal an mheaisín agus úsáidtear 1 agus 0 chun an ríomhaire a chlárú. Tháinig an dara glúin, díolamóir, chun cinn i rith na 1950í. Idir na 1950í is na 1960í rinneadh forbairt ar na teangacha den tríú glúin, ina measc siúd FORTRAN, LISP agus COBOL. Is iad seo foinse an chuid is mó de na teangacha nua-aimseartha a úsáidtear inniu.
+
+Modh oibre nó liosta treoracha léire críochta socraithe go beacht, ionas go bhfaighfear réiteach nó toradh barrmhaith ar fhadhb choimpléascach má fheidhmítear iad céim ar chéim.
+
+Sampla is ea an tacar rialacha chun iolrú simplí a dhéanamh. Saghas oidis bheacht a bhíonn ann, agus úsáidtear an téarma i dtaca le cláir ríomhaire go hiondúil. I gclár mar seo, leagtar amach gach treoir san ord cuí. Má bhíonn fiú treoir amháin in easnamh, treoir breise ann, nó treoir san eagar mícheart, ní fiú tráithnín an clár.[1]
+
+Is éard atá i gceist leis an Cripteagrafaíocht ná athrú i bhfoirm teachtaireachta trí chóid is rúnscríbhinní chun a brí a cheilt. Seasann códfhocail — i gcódleabhar, de ghnáth, a bhíonn ag an duine a chumann an teachtaireacht agus an duine a bhfuil sí dírithe air — d'fhocail nó frásaí sa bhunteachtaireacht i ngnáth-théacs. I rúnscríbhinn déantar ionadú nó aistriú ar gach litir ar leith de réir rialacha rúnda.
+
+Úsáid ríomhairí chun eolas a thaispeáint i bhfoirm ghrafach nó phictiúrtha, de ghnáth ar VDU (aonad amharcthaispeána), printéir nó breacaire. Úsáidtear í i réimse leathan feidhmeanna ó láimhseáil líníochtaí casta innealtóireachta go dtí cluichí ríomhaire, ó radhairc ardghéire in insamhlóirí aerárthach is spásárthach go dtí táirgeadh uathoibríoch scannán beochana. I gcásanna áirithe, is ealaín dhílis dá cuid féin í. Éilíonn na feidhmeanna seo ríomhaire cumasach tapa, agus deartar cuid mhaith de na ríomhairí is déanaí le riachtanais ríomhghrafaice go mór san áireamh.[1]
+
+Is éard is intleacht shaorga (IS)[1] ann ná córais ríomhaireachta ar féidir fadhbanna casta a réiteach, patrúin a aithint, agus comhairlí a chinneadh leo nach féidir a dhéanamh de ghnáth ach le hintleacht dhaonna, le hairíonna cosúil le foghlaim, asbheirt, imfhios is féincheartú.
+
+Is é a bhíonn i gceist ná aithris a dhéanamh le ríomhairí, an oiread agus is féidir, ar na próisis dhaonna intinne seo.
+
+Cuimsíonn an t-ábhar brainsí éagsúla den ríomheolaíocht: cibirnitic, córais bunaithe ar eolas, próiseáil teanga nádúrtha, aithint ghutha, aithint phatrún, is róbaitic, agus go dtí seo tá an-dul chun cinn déanta i gcórais shaineolacha.
+
+
+Meascán mearaí
+Cuirtear gach blúire den bhuneolas ar ábhar áirithe — airgeadas, míochaine, dlí nó eile — i gclár ríomhaire, agus cuirtear cláir leis sin chun socruithe áirithe a dhéanamh i gcásanna éagsúla.[2] Bhain lucht bunaithe ChatGPT úsáid as 183,000 leabhar, na billiúin leathanach idirlín agus go leor foinsí eile sula raibh an áis intleachta saorga sin ábalta abairtí a chur le chéile a raibh ciall leo.
+
+Bíonn sé an-deacair teanga a mhúineadh do IS mar gheall go mbíonn a cuid nósanna aisteacha agus a bealaí beaga féin ag gach teanga.[3]
+
+An Ghaeilge
+Mar gheall ar a laghad cainteoirí agus scríbhneoirí maithe Gaeilge atá ann, bíonn teacht ag lucht forbartha uirlisí IS i nGaeilge ar i bhfad Éireann níos lú foinsí ná mar a bhíonn ar fáil i mBéarla. Fadhb í seo mar dá mhéid sonraí atá ann is ea is sofaisticiúla na huirlisí. Bheadh IS as Gaeilge ag brath ar pé ábhar atá ann cheana féin a léireodh an caighdeán ceart agus an méid a mbeifeá ag súil leis.[4][3]
+
+Scoileanna
+Is féidir cás a dhéanamh srian a chur leis an intleacht shaorga i scoileanna, mar atá déanta sa tSualainn. Ach má ghlactar leis gur mó na buntáistí ná na míbhuntáistí a bhaineann leis an IS san oideachas, tá dúshláin ar leith ag baint le córas oideachais dátheangach na hÉireann.o
+
+Is éard is ríomhaireacht chandamach ann ná feidhm a bhaint as feiniméin meicnic-chandamacha amhail forshuíomh agus fostú i gcóras ríomhaireachta. Tugtar ríomhaire candamach ar ríomhaire a dhéanann ríomhanna candamacha. Creidtear go bhfuil ríomhairí candamacha in acmhainn fadhbanna ríomhaireachtúla a réiteach i bhfad níos gasta ná ríomhairí clasaiceacha. Mar shampla, an fachtóiriú slánuimhreach atá ina chnámh droma don chripteachóras siúd criptiú RSA. Tá staidéar na ríomhaireachta candamaí ina foréimse d'eolaíocht na faisnéise candamaí.
+
+Tá fréamhacha na ríomhaireachta candamaí le fáil i meaisín Turing na bliana 1935.[1] Thóg an fisiceoir Paul Benioff an chéad chéim eile ag tús na 1980idí nuair a mhol sé leagan meicnic-chandamach de mheaisín Turing. Ina dhiaidh sin, dhearbhaigh Richard Feynman agus Yuri Manin go mbeadh sé de chumas ag ríomhaire candamach rudaí a ionsamhlú nach mbeadh indéanta ag ríomhaire clasaiceach ariamh.[2]
+
+Is é an candamghiotán (giotán candamach) an bun-aonad eolais, cosúil leis an ngiotán sa ríomhaireacht clasaiceach.

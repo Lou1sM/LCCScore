@@ -1,0 +1,387 @@
+Plant
+
+Article
+Talk
+Read
+Edit source
+View history
+Watch
+Tools hide
+General
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Wikidata item
+Edit interlanguage links
+Expand all
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikispecies
+Wikiquote
+Wikiversity
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+This is a good article. Click here for more information.
+Page semi-protected
+From Wikipedia, the free encyclopedia
+(Redirected from Plants)
+For other uses, see Plant (disambiguation).
+Plants
+Temporal range: Mesoproterozoic–present 
+Pha.ProterozoicArcheanHad.
+
+Angiosperm
+
+Desmid
+
+Moss
+
+Glaucophyta
+
+Charophyta
+
+Gymnosperm
+
+Fern
+
+Lycophyte
+Scientific classificationEdit this classification
+Clade:	Diaphoretickes
+Clade:	CAM
+Clade:	Archaeplastida
+Kingdom:	Plantae
+H. F. Copel., 1956
+Superdivisions
+see text
+
+Synonyms
+Viridiplantae Cavalier-Smith 1981[1]
+Chlorobionta Jeffrey 1982, emend. Bremer 1985, emend. Lewis and McCourt 2004[2]
+Chlorobiota Kenrick and Crane 1997[3]
+Chloroplastida Adl et al., 2005 [4]
+Phyta Barkley 1939 emend. Holt & Uidica 2007
+Cormophyta Endlicher, 1836
+Cormobionta Rothmaler, 1948
+Euplanta Barkley, 1949
+Telomobionta Takhtajan, 1964
+Embryobionta Cronquist et al., 1966
+Metaphyta Whittaker, 1969
+Plants are the eukaryotes that form the kingdom Plantae; they are predominantly photosynthetic. This means that they obtain their energy from sunlight, using chloroplasts derived from endosymbiosis with cyanobacteria to produce sugars from carbon dioxide and water, using the green pigment chlorophyll. Exceptions are parasitic plants that have lost the genes for chlorophyll and photosynthesis, and obtain their energy from other plants or fungi. Most plants are muliticellular, except for some green algae.
+
+Historically, as in Aristotle's biology, the plant kingdom encompassed all living things that were not animals, and included algae and fungi. Definitions have narrowed since then; current definitions exclude the fungi and some of the algae. By the definition used in this article, plants form the clade Viridiplantae (green plants), which consists of the green algae and the embryophytes or land plants (hornworts, liverworts, mosses, lycophytes, ferns, conifers and other gymnosperms, and flowering plants). A definition based on genomes includes the Viridiplantae, along with the red algae and the glaucophytes, in the clade Archaeplastida.
+
+There are about 380,000 known species of plants, of which the majority, some 260,000, produce seeds. They range in size from single cells to the tallest trees. Green plants provide a substantial proportion of the world's molecular oxygen; the sugars they create supply the energy for most of Earth's ecosystems and other organisms, including animals, either consume plants directly or rely on organisms which do so.
+
+Grain, fruit, and vegetables are basic human foods and have been domesticated for millennia. People use plants for many purposes, such as building materials, ornaments, writing materials, and, in great variety, for medicines. The scientific study of plants is known as botany, a branch of biology.
+
+Definition
+Taxonomic history
+Further information: Kingdom (biology) § History
+All living things were traditionally placed into one of two groups, plants and animals. This classification dates from Aristotle (384–322 BC), who distinguished different levels of beings in his biology,[5] based on whether living things had a "sensitive soul" or like plants only a "vegetative soul".[6] Theophrastus, Aristotle's student, continued his work in plant taxonomy and classification.[7] Much later, Linnaeus (1707–1778) created the basis of the modern system of scientific classification, but retained the animal and plant kingdoms, naming the plant kingdom the Vegetabilia.[7]
+
+
+Alternative concepts
+When the name Plantae or plant is applied to a specific group of organisms or taxa, it usually refers to one of four concepts. From least to most inclusive, these four groupings are:
+
+Name(s)	Scope	Organisation	Description
+Land plants, also known as Embryophyta	Plantae sensu strictissimo	Multicellular	Plants in the strictest sense include liverworts, hornworts, mosses, and vascular plants, as well as fossil plants similar to these surviving groups (e.g., Metaphyta Whittaker, 1969,[8] Plantae Margulis, 1971[9]).
+Green plants, also known as Viridiplantae, Viridiphyta, Chlorobionta or Chloroplastida	Plantae sensu stricto	Some unicellular, some multicellular	Plants in a strict sense include the green algae, and land plants that emerged within them, including stoneworts. The relationships between plant groups are still being worked out, and the names given to them vary considerably. The clade Viridiplantae encompasses a group of organisms that have cellulose in their cell walls, possess chlorophylls a and b and have plastids bound by only two membranes that are capable of photosynthesis and of storing starch. This clade is the main subject of this article (e.g., Plantae Copeland, 1956[10]).
+Archaeplastida, also known as Plastida or Primoplantae	Plantae sensu lato	Some unicellular, some multicellular	Plants in a broad sense comprise the green plants listed above plus the red algae (Rhodophyta) and the glaucophyte algae (Glaucophyta) that store Floridean starch outside the plastids, in the cytoplasm. This clade includes all of the organisms that eons ago acquired their primary chloroplasts directly by engulfing cyanobacteria (e.g., Plantae Cavalier-Smith, 1981[11]).
+Old definitions of plant (obsolete)	Plantae sensu amplo	Some unicellular, some multicellular	Plants in the widest sense included the unrelated groups of algae, fungi and bacteria on older, obsolete classifications (e.g. Plantae or Vegetabilia Linnaeus 1751,[12] Plantae Haeckel 1866,[13] Metaphyta Haeckel, 1894,[14] Plantae Whittaker, 1969[8]).
+Evolution
+Diversity
+
+The desmid Cosmarium botrytis is a single cell.
+
+The coast redwood Sequoia sempervirens is up to 380 feet (120 m) tall.
+There are about 382,000 accepted species of plants,[15] of which the great majority, some 283,000, produce seeds.[16] The table below shows some species count estimates of different green plant (Viridiplantae) divisions. About 85–90% of all plants are flowering plants. Several projects are currently attempting to collect records on all plant species in online databases, e.g. the World Flora Online.[15][17]
+
+Plants range in scale from single-celled organisms such as desmids (from 10 micrometres across) and picozoa (less than 3 micrometres across),[18][19] to the largest trees (megaflora) such as the conifer Sequoia sempervirens (up to 380 feet (120 m) tall ) and the angiosperm Eucalyptus regnans (up to 325 feet (99 m) tall ).[20]
+
+Diversity of living green plant (Viridiplantae) divisions by number of species
+Informal group	Division name	Common name	No. of described living species
+Green algae	Chlorophyta	Green algae (chlorophytes)	3800–4300 [21][22]
+Charophyta	Green algae (e.g. desmids & stoneworts)	2800–6000 [23][24]
+Bryophytes	Marchantiophyta	Liverworts	6000–8000 [25]
+Anthocerotophyta	Hornworts	100–200 [26]
+Bryophyta	Mosses	12000 [27]
+Pteridophytes	Lycopodiophyta	Clubmosses	1200 [28]
+Polypodiophyta	Ferns, whisk ferns & horsetails	11000 [28]
+Spermatophytes
+(seed plants)	Cycadophyta	Cycads	160 [29]
+Ginkgophyta	Ginkgo	1 [30]
+Pinophyta	Conifers	630 [28]
+Gnetophyta	Gnetophytes	70 [28]
+Angiospermae	Flowering plants	258650 [31]
+The naming of plants is governed by the International Code of Nomenclature for algae, fungi, and plants[32] and the International Code of Nomenclature for Cultivated Plants.[33]
+
+Evolutionary history
+Main article: Evolutionary history of plants
+The ancestors of land plants evolved in water. An algal scum formed on the land 1,200 million years ago, but it was not until the Ordovician, around 450 million years ago, that the first land plants appeared, with a level of organisation like that of bryophytes.[34][35] However, fossils of organisms with a flattened thallus in Precambrian rocks suggest that multicellular freshwater eukaryotes existed over 1000 mya.[36]
+
+Primitive land plants began to diversify in the late Silurian, around 420 million years ago. Bryophytes, club mosses, and ferns then appear in the fossil record.[37] Early plant anatomy is preserved in cellular detail in an early Devonian fossil assemblage from the Rhynie chert. These early plants were preserved by being petrified in chert formed in silica-rich volcanic hot springs.[38]
+
+By the end of the Devonian, most of the basic features of plants today were present, including roots, leaves and secondary wood in trees such as Archaeopteris.[39][40] The Carboniferous Period saw the development of forests in swampy environments dominated by clubmosses and horsetails, including some as large as trees, and the appearance of early gymnosperms, the first seed plants.[41] The Permo-Triassic extinction event radically changed the structures of communities.[42] This may have set the scene for the evolution of flowering plants in the Triassic (~200 million years ago), with an adaptive radiation in the Cretaceous so rapid that Darwin called it an "abominable mystery".[43][44][45] Conifers diversified from the Late Triassic onwards, and became a dominant part of floras in the Jurassic.[46][47]
+
+Cross-section of a stem of Rhynia, an early land plant, preserved in Rhynie chert from the early Devonian
+Cross-section of a stem of Rhynia, an early land plant, preserved in Rhynie chert from the early Devonian
+ 
+By the Devonian, plants had adapted to land with roots and woody stems.
+By the Devonian, plants had adapted to land with roots and woody stems.
+ 
+In the Carboniferous, horsetails such as Asterophyllites proliferated in swampy forests.
+In the Carboniferous, horsetails such as Asterophyllites proliferated in swampy forests.
+ 
+Conifers became diverse and often dominant in the Jurassic. Cone of Araucaria mirabilis.
+Conifers became diverse and often dominant in the Jurassic. Cone of Araucaria mirabilis.
+ 
+Adaptive radiation in the Cretaceous created many flowering plants, such as Sagaria in the Ranunculaceae.
+Adaptive radiation in the Cretaceous created many flowering plants, such as Sagaria in the Ranunculaceae.
+Phylogeny
+In 2019, a phylogeny based on genomes and transcriptomes from 1,153 plant species was proposed.[48] The placing of algal groups is supported by phylogenies based on genomes from the Mesostigmatophyceae and Chlorokybophyceae that have since been sequenced. Both the "chlorophyte algae" and the "streptophyte algae" are treated as paraphyletic (vertical bars beside phylogenetic tree diagram) in this analysis, as the land plants arose from within those groups.[49][50] The classification of Bryophyta is supported both by Puttick et al. 2018,[51] and by phylogenies involving the hornwort genomes that have also since been sequenced.[52][53]
+
+Archaeplastida	
+Rhodophyta 
+
+Glaucophyta 
+
+Viridiplantae	
+Chlorophyta 
+
+Prasinococcales
+
+ 
+
+Mesostigmatophyceae
+
+Chlorokybophyceae
+
+Spirotaenia 
+
+Klebsormidiales 
+
+Chara 
+
+Coleochaetales
+
+Zygnematophyceae	
+
+
+Embryophytes	
+"Bryophytes"	
+Hornworts 
+
+Setaphytes	
+Liverworts 
+
+Mosses 
+
+Tracheophytes	
+Lycophytes 
+
+Euphyllophytes	
+Ferns	
+
+
+Spermatophytes	
+Gymnosperms 
+
+Angiosperms 
+
+(seed plants)
+(land plants)
+(green plants)
+"chlorophyte algae""streptophyte algae"
+Physiology
+Main article: Plant physiology
+Plant cells
+Main article: Plant cell
+
+Plant cell structure
+Plant cells have distinctive features that other eukaryotic cells (such as those of animals) lack. These include the large water-filled central vacuole, chloroplasts, and the strong flexible cell wall, which is outside the cell membrane. Chloroplasts are derived from what was once a symbiosis of a non-photosynthetic cell and photosynthetic cyanobacteria. The cell wall, made mostly of cellulose, allows plant cells to swell up with water without bursting. The vacuole allows the cell to change in size while the amount of cytoplasm stays the same.[54]
+
+Plant structure
+Further information: Plant anatomy and Plant morphology
+
+Anatomy of a seed plant. 1. Shoot system. 2. Root system. 3. Hypocotyl. 4. Terminal bud. 5. Leaf blade. 6. Internode. 7. Axillary bud. 8. Petiole. 9. Stem. 10. Node. 11. Tap root. 12. Root hairs. 13. Root tip. 14. Root cap
+Most plants are multicellular. Plant cells differentiate into multiple cell types, forming tissues such as the vascular tissue with specialized xylem and phloem of leaf veins and stems, and organs with different physiological functions such as roots to absorb water and minerals, stems for support and to transport water and synthesized molecules, leaves for photosynthesis, and flowers for reproduction.[55]
+
+Photosynthesis
+Main article: Photosynthesis
+Plants photosynthesize, manufacturing food molecules (sugars) using energy obtained from light. Plant cells contain chlorophylls inside their chloroplasts, which are green pigments that are used to capture light energy. The end-to-end chemical equation for photosynthesis is:[56]
+
+6
+CO
+2
++
+6
+H
+2
+O
+→
+light
+C
+6
+H
+12
+O
+6
++
+6
+O
+2
+{\displaystyle {\ce {6CO2{}+6H2O{}->[{\text{light}}]C6H12O6{}+6O2{}}}}
+This causes plants to release oxygen into the atmosphere. Green plants provide a substantial proportion of the world's molecular oxygen, alongside the contributions from photosynthetic algae and cyanobacteria.[57][58][59]
+
+Plants that have secondarily adopted a parasitic lifestyle may lose the genes involved in photosynthesis and the production of chlorophyll.[60]
+
+Growth and repair
+Growth is determined by the interaction of a plant's genome with its physical and biotic environment.[61] Factors of the physical or abiotic environment include temperature, water, light, carbon dioxide, and nutrients in the soil.[62] Biotic factors that affect plant growth include crowding, grazing, beneficial symbiotic bacteria and fungi, and attacks by insects or plant diseases.[63]
+
+Frost and dehydration can damage or kill plants. Some plants have antifreeze proteins, heat-shock proteins and sugars in their cytoplasm that enable them to tolerate these stresses.[64] Plants are continuously exposed to a range of physical and biotic stresses which cause DNA damage, but they can tolerate and repair much of this damage.[65]
+
+Reproduction
+Main article: Plant reproduction
+Plants reproduce to generate offspring, whether sexually, involving gametes, or asexually, involving ordinary growth. Many plants use both mechanisms.[66]
+
+Sexual
+
+Alternation of generations between a haploid (n) gametophyte (top) and a diploid (2n) sporophyte (bottom), in all types of plant
+When reproducing sexually, plants have complex lifecycles involving alternation of generations. One generation, the sporophyte, which is diploid (with 2 sets of chromosomes), gives rise to the next generation, the gametophyte, which is haploid (with one set of chromosomes). Some plants also reproduce asexually via spores. In some non-flowering plants such as mosses, the sexual gametophyte forms most of the visible plant.[67] In seed plants (gymnosperms and flowering plants), the sporophyte forms most of the visible plant, and the gametophyte is very small. Flowering plants reproduce sexually using flowers, which contain male and female parts: these may be within the same (hermaphrodite) flower, on different flowers on the same plant, or on different plants. The stamens create pollen, which produces male gametes that enter the ovule to fertilize the egg cell of the female gametophyte. Fertilization takes place within the carpels or ovaries, which develop into fruits that contain seeds. Fruits may be dispersed whole, or they may split open and the seeds dispersed individually.[68]
+
+Asexual
+
+Ficinia spiralis spreads asexually with runners in the sand.
+Plants reproduce asexually by growing any of a wide variety of structures capable of growing into new plants. At the simplest, plants such as mosses or liverworts may be broken into pieces, each of which may regrow into whole plants. The propagation of flowering plants by cuttings is a similar process. Structures such as runners enable plants to grow to cover an area, forming a clone. Many plants grow food storage structures such as tubers or bulbs which may each develop into a new plant.[69]
+
+Some non-flowering plants, such as many liverworts, mosses and some clubmosses, along with a few flowering plants, grow small clumps of cells called gemmae which can detach and grow.[70][71]
+
+Disease resistance
+Main article: Plant disease resistance
+Plants use pattern-recognition receptors to recognize pathogens such as bacteria that cause plant diseases. This recognition triggers a protective response. The first such plant receptors were identified in rice[72] and in Arabidopsis thaliana.[73]
+
+Genomics
+Further information: Plant genome
+Plants have some of the largest genomes of all organisms.[74] The largest plant genome (in terms of gene number) is that of wheat (Triticum aestivum), predicted to encode ≈94,000 genes[75] and thus almost 5 times as many as the human genome. The first plant genome sequenced was that of Arabidopsis thaliana which encodes about 25,500 genes.[76] In terms of sheer DNA sequence, the smallest published genome is that of the carnivorous bladderwort (Utricularia gibba) at 82 Mb (although it still encodes 28,500 genes)[77] while the largest, from the Norway spruce (Picea abies), extends over 19.6 Gb (encoding about 28,300 genes).[78]
+
+Ecology
+Distribution
+Further information: Biogeography
+
+A map of a classification of the world's vegetation into biomes. Those named here include tundra, taiga, temperate broadleaf forest, temperate steppe, subtropical rainforest, Mediterranean vegetation, monsoon forest, arid desert, xeric shrubland, dry steppe, semiarid desert, grass savanna, tree savanna, subtropical and tropical dry forest, tropical rainforest, alpine tundra, and montane forests. Shown in gray is "ice sheet and polar desert" devoid of plants.
+Plants are distributed almost worldwide. While they inhabit several biomes which can be divided into a multitude of ecoregions,[79] only the hardy plants of the Antarctic flora, consisting of algae, mosses, liverworts, lichens, and just two flowering plants, have adapted to the prevailing conditions on that southern continent.[80]
+
+Plants are often the dominant physical and structural component of the habitats where they occur. Many of the Earth's biomes are named for the type of vegetation because plants are the dominant organisms in those biomes, such as grassland, savanna, and tropical rainforest.[81]
+
+Primary producers
+Further information: Autotroph
+The photosynthesis conducted by land plants and algae is the ultimate source of energy and organic material in nearly all ecosystems. Photosynthesis, at first by cyanobacteria and later by photosynthetic eukaryotes, radically changed the composition of the early Earth's anoxic atmosphere, which as a result is now 21% oxygen. Animals and most other organisms are aerobic, relying on oxygen; those that do not are confined to relatively rare anaerobic environments. Plants are the primary producers in most terrestrial ecosystems and form the basis of the food web in those ecosystems.[82] Plants form about 80% of the world biomass at about 450 gigatonnes (4.4×1011 long tons; 5.0×1011 short tons) of carbon.[83]
+
+Ecological relationships
+Main article: Plant ecology
+Numerous animals have coevolved with plants; flowering plants have evolved pollination syndromes, suites of flower traits that favour their reproduction. Many, including insect and bird partners, are pollinators, visiting flowers and accidentally transferring pollen in exchange for food in the form of pollen or nectar.[84]
+
+Many animals disperse seeds that are adapted for such dispersal. Various mechanisms of dispersal have evolved. Some fruits offer nutritious outer layers attractive to animals, while the seeds are adapted to survive the passage through the animal's gut; others have hooks that enable them to attach to a mammal's fur.[85] Myrmecophytes are plants that have coevolved with ants. The plant provides a home, and sometimes food, for the ants. In exchange, the ants defend the plant from herbivores and sometimes competing plants. Ant wastes serve as organic fertilizer.[86]
+
+The majority of plant species have fungi associated with their root systems in a mutualistic symbiosis known as mycorrhiza. The fungi help the plants gain water and mineral nutrients from the soil, while the plant gives the fungi carbohydrates manufactured in photosynthesis.[87] Some plants serve as homes for endophytic fungi that protect the plant from herbivores by producing toxins. The fungal endophyte Neotyphodium coenophialum in tall fescue grass has pest status in the American cattle industry.[88]
+
+Many legumes have Rhizobium nitrogen-fixing bacteria in nodules of their roots, which fix nitrogen from the air for the plant to use; in return, the plants supply sugars to the bacteria.[89] Nitrogen fixed in this way can become available to other plants, and is important in agriculture; for example, farmers may grow a crop rotation of a legume such as beans, followed by a cereal such as wheat, to provide cash crops with a reduced input of nitrogen fertilizer.[90]
+
+Some 1% of plants are parasitic. They range from the semi-parasitic mistletoe that merely takes some nutrients from its host, but still has photosynthetic leaves, to the fully-parasitic broomrape and toothwort that acquire all their nutrients through connections to the roots of other plants, and so have no chlorophyll. Full parasites can be extremely harmful to their plant hosts.[91]
+
+Plants that grow on other plants, usually trees, without parasitizing them, are called epiphytes. These may support diverse arboreal ecosystems. Some may indirectly harm their host plant, such as by intercepting light. Hemiepiphytes like the strangler fig begin as epiphytes, but eventually set their own roots and overpower and kill their host. Many orchids, bromeliads, ferns, and mosses grow as epiphytes.[92] Among the epiphytes, the bromeliads accumulate water in their leaf axils; these water-filled cavities can support complex aquatic food webs.[93]
+
+Some 630 species of plants are carnivorous, such as the Venus flytrap (Dionaea muscipula) and sundew (Drosera species). They trap small animals and digest them to obtain mineral nutrients, especially nitrogen and phosphorus.[94]
+
+Bee gathering pollen (orange pollen basket on its leg)
+Bee gathering pollen (orange pollen basket on its leg)
+ 
+Hummingbird visiting a flower for nectar
+Hummingbird visiting a flower for nectar
+ 
+Seed dispersal by animals: many hooked Geum urbanum fruits attached to a dog's fur
+Seed dispersal by animals: many hooked Geum urbanum fruits attached to a dog's fur
+ 
+Legumes have root nodules containing symbiotic Rhizobium nitrogen fixing bacteria.
+Legumes have root nodules containing symbiotic Rhizobium nitrogen fixing bacteria.
+ 
+A sundew leaf with sticky hairs curling to trap and digest a fly
+A sundew leaf with sticky hairs curling to trap and digest a fly
+Competition
+Competition for shared resources reduces a plant's growth.[95][96] Shared resources include sunlight, water and nutrients. Light is a critical resource because it is necessary for photosynthesis.[95] Plants use their leaves to shade other plants from sunlight and grow quickly to maximize their own expose.[95] Water too is essential for photosynthesis; roots compete to maximize water uptake from soil.[97] Some plants have deep roots that are able to locate water stored deep underground, and others have shallower roots that are capable of extending longer distances to collect recent rainwater.[97] Minerals are important for plant growth and development.[98] Common nutrients competed for amongst plants include nitrogen, phosphorus, and potassium.[99]
+
+Importance to humans
+Main article: Plants in culture
+
+Food
+Main article: Agriculture
+
+Harvesting oats with a combine harvester
+Human cultivation of plants is the core of agriculture, which in turn has played a key role in the history of world civilizations.[100] Humans depend on plants for food, either directly or as feed in animal husbandry. Agriculture includes agronomy for arable crops, horticulture for vegetables and fruit, and forestry for timber.[101][102] About 7,000 species of plant have been used for food, though most of today's food is derived from only 30 species. The major staples include cereals such as rice and wheat, starchy roots and tubers such as cassava and potato, and legumes such as peas and beans. Vegetable oils such as olive oil and palm oil provide lipids, while fruit and vegetables contribute vitamins and minerals to the diet.[103] Coffee, tea, and chocolate are major crops whose caffeine-containing products serve as mild stimulants.[104] The study of plant uses by people is called economic botany or ethnobotany.[105]
+
+Medicines
+Main article: Medicinal plants
+
+A medieval physician preparing an extract from a medicinal plant, from an Arabic Dioscorides, 1224
+Medicinal plants are a primary source of organic compounds, both for their medicinal and physiological effects, and for the industrial synthesis of a vast array of organic chemicals.[106] Many hundreds of medicines, as well as narcotics, are derived from plants, both traditional medicines used in herbalism[107][108] and chemical substances purified from plants or first identified in them, sometimes by ethnobotanical search, and then synthesised for use in modern medicine. Modern medicines derived from plants include aspirin, taxol, morphine, quinine, reserpine, colchicine, digitalis and vincristine. Plants used in herbalism include ginkgo, echinacea, feverfew, and Saint John's wort. The pharmacopoeia of Dioscorides, De materia medica, describing some 600 medicinal plants, was written between 50 and 70 CE and remained in use in Europe and the Middle East until around 1600 CE; it was the precursor of all modern pharmacopoeias.[109][110][111]
+
+Nonfood products
+Main article: Non-food crop
+
+Timber in storage for later processing at a sawmill
+Plants grown as industrial crops are the source of a wide range of products used in manufacturing.[112] Nonfood products include essential oils, natural dyes, pigments, waxes, resins, tannins, alkaloids, amber and cork. Products derived from plants include soaps, shampoos, perfumes, cosmetics, paint, varnish, turpentine, rubber, latex, lubricants, linoleum, plastics, inks, and gums. Renewable fuels from plants include firewood, peat and other biofuels.[113][114] The fossil fuels coal, petroleum and natural gas are derived from the remains of aquatic organisms including phytoplankton in geological time.[115] Many of the coal fields date to the Carboniferous period of Earth's history. Terrestrial plants also form type III kerogen, a source of natural gas.[116][117]
+
+Structural resources and fibres from plants are used to construct dwellings and to manufacture clothing. Wood is used for buildings, boats, and furniture, and for smaller items such as musical instruments and sports equipment. Wood is pulped to make paper and cardboard.[118] Cloth is often made from cotton, flax, ramie or synthetic fibres such as rayon, derived from plant cellulose. Thread used to sew cloth likewise comes in large part from cotton.[119]
+
+Ornamental plants
+Main article: Ornamental plant
+
+A rose espalier at Niedernhall in Germany
+Thousands of plant species are cultivated for their beauty and to provide shade, modify temperatures, reduce wind, abate noise, provide privacy, and reduce soil erosion. Plants are the basis of a multibillion-dollar per year tourism industry, which includes travel to historic gardens, national parks, rainforests, forests with colourful autumn leaves, and festivals such as Japan's[120] and America's cherry blossom festivals.[121]
+
+Plants may be grown indoors as houseplants, or in specialized buildings such as greenhouses. Plants such as Venus flytrap, sensitive plant and resurrection plant are sold as novelties. Art forms specializing in the arrangement of cut or living plant include bonsai, ikebana, and the arrangement of cut or dried flowers. Ornamental plants have sometimes changed the course of history, as in tulipomania.[122]
+
+In science
+
+Barbara McClintock used maize to study inheritance of traits.
+Further information: Botany and Model organism
+The traditional study of plants is the science of botany.[123] Basic biological research has often used plants as its model organisms. In genetics, the breeding of pea plants allowed Gregor Mendel to derive the basic laws governing inheritance,[124] and examination of chromosomes in maize allowed Barbara McClintock to demonstrate their connection to inherited traits.[125] The plant Arabidopsis thaliana is used in laboratories as a model organism to understand how genes control the growth and development of plant structures.[126] Tree rings provide a method of dating in archeology, and a record of past climates.[127] The study of plant fossils, or Paleobotany, provides information about the evolutions of plants, paleogeographical reconstructions, and past climate change. Plant fossils can also help determine the age of rocks.[128]
+
+In mythology, religion, and culture
+Further information: Human uses of plants § In mythology and religion
+Plants including trees appear in mythology, religion, and literature.[129][130][131] In multiple Indo-European, Siberian, and Native American religions, the world tree motif is depicted as a colossal tree growing on the earth, supporting the heavens, and with its roots reaching into the underworld. It may also appear as a cosmic tree or an eagle and serpent tree.[132][133] Forms of the world tree include the archetypal tree of life, which is in turn connected to the Eurasian concept of the sacred tree.[134] Another widespread ancient motif, found for example in Iran, has a tree of life flanked by a pair of confronted animals.[135]
+
+Flowers are often used as memorials, gifts and to mark special occasions such as births, deaths, weddings and holidays. Flower arrangements may be used to send hidden messages.[136] Plants and especially flowers form the subjects of many paintings.[137][138]
+
+Negative effects
+
+The musk thistle is an invasive species in Texas.
+Weeds are commercially or aesthetically undesirable plants growing in managed environments such as in agriculture and gardens.[139] People have spread many plants beyond their native ranges; some of these plants have become invasive, damaging existing ecosystems by displacing native species, and sometimes becoming serious weeds of cultivation.[140]
+
+Some plants that produce windblown pollen, including grasses, invoke allergic reactions in people who suffer from hay fever.[141] Many plants produce toxins to protect themselves from herbivores. Major classes of plant toxins include alkaloids, terpenoids, and phenolics.[142] These can be harmful to humans and livestock by ingestion[143][144] or, as with poison ivy, by contact.[145] Some plants have negative effects on other plants, preventing seedling growth or the growth of nearby plants by releasing allopathic chemicals.[146]
