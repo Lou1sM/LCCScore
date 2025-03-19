@@ -12,7 +12,6 @@ from LCC.discrete_lcc import discrete_lcc
 
 if __name__ == '__main__':
     all_dsets = ['text-en', 'text-de', 'text-ie', 'wsj', 'simp-en', 'rand', 'repeat2', 'repeat5', 'repeat10']
-    all_dsets += [f'childes-{age}-{lang}' for age in (3,5,7) for lang in ['en']]
     all_wiki_topics = [
             'animals',
             'aurora',
@@ -61,48 +60,6 @@ if __name__ == '__main__':
                 break
         return corpus
 
-    def get_childes_by_age(age, lang):
-        children = []
-        age_dir = f'data/childes-{lang}/{age}'
-        for fname in os.listdir(age_dir):
-            with open(os.path.join(age_dir, fname)) as f:
-                child = f.read().split('\n')
-            child = '. '.join(line.removeprefix('*CHI:\t').removesuffix(' .') for line in child if line.startswith('*CHI:\t'))
-            children.append(child)
-
-        corpus = '\n'.join(children)
-        corpus = re.sub(r'\[(\?|/|//|\*)\]', '', corpus)
-        #corpus = re.sub(r'\[=\? ([A-Za-z\' ]+)\]', r'\1', corpus)
-        corpus = re.sub(r'\([A-Za-z ]+\)', '',  corpus)
-        corpus = re.sub(r'\.\.+ ', '.', corpus)
-        corpus = re.sub(r'\. (\. )+', ' ', corpus)
-        corpus = re.sub(r'[A-Za-z-~=:/\.\*]*&[A-Za-z-~=:/\.\*]*', '', corpus)
-        corpus = re.sub(r'[A-Za-z-~=:/\.\*]*\+[A-Za-z-~=:/\.\*]*', '', corpus)
-        corpus = re.sub(r'[A-Za-z-~=:/\.\*]*<[A-Za-z-~=:/\.\*]*', '', corpus)
-        corpus = re.sub(r'[A-Za-z-~=:/\.\*]*>[A-Za-z-~=:/\.\*]*', '', corpus)
-        corpus = re.sub(r'[A-Za-z-~=:/\.\*]*:[A-Za-z-~=:/\.\*]*', '', corpus)
-        corpus = re.sub(r'[A-Za-z-~=:/\.\*]*@[A-Za-z-~=:/\.\*]*', '', corpus)
-        corpus = re.sub(r'\(([A-Za-z\.\*]*)\)', r'\1', corpus)
-        corpus = re.sub(r'[oauh]*\. ', ' ', corpus)
-        corpus = re.sub(r'\[[A-Za-z-~=:/?\*\' ]+\]', '', corpus)
-        corpus = re.sub(r'\([A-Za-z-~=:/?\*\' ]+\)', '', corpus)
-        corpus = corpus.replace('O. ', '')
-        corpus = corpus.replace('O ', '')
-        corpus = corpus.replace(' \' ', '')
-        corpus = corpus.replace('[?] ', '')
-        corpus = corpus.replace('?. ', '? ')
-        corpus = corpus.replace(' ?', '? ')
-        corpus = re.sub(r' *, ', ', ', corpus)
-        corpus = corpus.replace('„ ', ' ')
-        corpus = corpus.replace('“', '')
-        corpus = corpus.replace('”', '')
-        corpus = corpus.replace('0 ', ' ')
-        corpus = corpus.replace(' 0', ' ')
-        corpus = re.sub(r' +', ' ', corpus)
-        corpus = re.sub(r' +\n', '\n', corpus)
-        corpus = re.sub(r'(, )+', ', ', corpus)
-        return corpus
-
     def get_dset(dset_name):
         all_texts = []
         if dset_name == 'wsj':
@@ -120,12 +77,6 @@ if __name__ == '__main__':
                 dset_text = ''.join(np.random.choice(list(set(text)), size=ARGS.text_len))
             elif dset_name == 'simp-en':
                 dset_text = ''.join(np.random.choice(['boy','guy','her','his','the'], size=ARGS.text_len//3))
-            elif dset_name == 'hps':
-                with open('data/text/small-enwik9') as f:
-                    dset_text = f.read()
-            elif dset_name == 'hpm':
-                with open('data/text/med-enwik9') as f:
-                    dset_text = f.read()
             elif dset_name == 'repeat2':
                 dset_text = rand_tiled(2, ARGS.text_len)
             elif dset_name == 'repeat5':

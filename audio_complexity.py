@@ -38,7 +38,6 @@ comp_meas = ContinuousLCCMeasurer(ncs_to_check=8,
 
 
 def resize(spec):
-    #print(spec.shape)
     scale_by = np.prod(spec.shape)/(16*740) # orig ims I used were 16*740, scale in prop to size
     new_size = 64*64*scale_by
     spec_im = Image.fromarray(spec)
@@ -59,7 +58,6 @@ def resize(spec):
     resized = np.expand_dims(resized.T,1)
     #print('resized', resized.shape)
     return resized
-
 
 def load_and_proc(audio_fp, offset=0, dur=None):
     fixed_sr = 44100

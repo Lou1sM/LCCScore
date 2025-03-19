@@ -2,7 +2,6 @@ import os
 import numpy as np
 import pickle
 from natsort import natsorted
-import sys
 from PIL import Image
 from os import listdir
 from os.path import join
@@ -68,12 +67,9 @@ def load_mnist(split):
     return imgs, labels
 
 def load_rand(dset,resize=False):
-    if dset=='imagenette':
-        dset_dir = 'data/imagenette2/val'
-        class_dir = np.random.choice(listdir(dset_dir))
-        class_dir_path = join(dset_dir,class_dir)
-    elif dset=='dtd':
-        class_dir_path = 'data/dtd/suitable'
+    dset_dir = 'data/imagenette2/val'
+    class_dir = np.random.choice(listdir(dset_dir))
+    class_dir_path = join(dset_dir,class_dir)
     fname = np.random.choice(listdir(class_dir_path))
     fpath = join(class_dir_path,fname)
     print(fname)
@@ -100,24 +96,13 @@ def load_fpath(fpath,resize,downsample):
     return im
 
 def generate_non_torch_im(dset,resize,subsample):
-    if dset=='imagenette':
-        dset_dir = 'data/imagenette2/val'
-    elif dset=='dtd':
-        dset_dir = 'data/dtd/suitable'
+    dset_dir = 'data/imagenette2/val'
     for i in range(subsample):
-        if dset=='imagenette':
-            num_classes = len(listdir(dset_dir))
-            class_dir = listdir(dset_dir)[i%num_classes]
-            idx_within_class = i//num_classes
-            fname = listdir(join(dset_dir,class_dir))[idx_within_class]
-            fpath = join(dset_dir,class_dir,fname)
-        elif dset=='dtd':
-            try:
-                fname = listdir(dset_dir)[i]
-            except IndexError:
-                print(f"have run out of images, at image number {i}")
-                sys.exit()
-            fpath = join(dset_dir,fname)
+        num_classes = len(listdir(dset_dir))
+        class_dir = listdir(dset_dir)[i%num_classes]
+        idx_within_class = i//num_classes
+        fname = listdir(join(dset_dir,class_dir))[idx_within_class]
+        fpath = join(dset_dir,class_dir,fname)
         yield load_fpath(fpath,resize), fpath
 
 def switch_rand_pos(img, switch_pos_x, switch_pos_y):
@@ -147,8 +132,6 @@ class ImageStreamer():
         self.resize = resize
         if dset=='im':
             self.dset_dir = 'data/imagenette2/val'
-        elif dset=='dtd':
-            self.dset_dir = 'data/dtd/suitable'
         elif dset == 'cifar':
             with open('data/cifar-10-batches-py/data_batch_1', 'rb') as f:
                 d = pickle.load(f, encoding='bytes')
@@ -159,10 +142,6 @@ class ImageStreamer():
         elif dset == 'mnist':
             imgs, labels = load_mnist()
             self.prepared_dset = list(zip(imgs,labels))
-        #elif dset == 'rand':
-            #self.prepared_dset = np.random.rand(1000,224,224,3).astype(np.float32).astype(np.float64) # so can fix bitprec at 32
-        #elif dset == 'bitrand':
-            #self.prepared_dset = (np.random.rand(1000,224,224,3) > 0.5).astype(float)
         elif dset == 'stripes':
             self.line_thicknesses = np.random.permutation(np.arange(70,80))
         elif dset in ('fluidsim', 'fluidsim-blurred'):
@@ -178,33 +157,22 @@ class ImageStreamer():
             num_ims = min(num_ims, len(self.im_fns))
         if self.dset in ['cifar','mnist','usps']:
             indices = np.random.choice(len(self.prepared_dset),size=num_ims,replace=False)
-        elif self.dset == 'dtd':
-            n = min(len(listdir('data/dtd/suitable')),num_ims)
-            indices = range(n)
         elif self.dset == 'fractal_imgs':
             n = min(len(listdir('fractal_imgs')),num_ims)
             indices = range(n)
         else: indices = range(num_ims)
 
         for i in indices:
-            if self.dset in ['im','dtd']:
-                if self.dset=='im':
-                    num_classes = len(listdir(self.dset_dir))
-                    if select_randomly:
-                        class_dir = np.random.choice(listdir(self.dset_dir))
-                        fname = np.random.choice(listdir(join(self.dset_dir,class_dir)))
-                    else:
-                        class_dir = given_class_dir if given_class_dir != 'none' else listdir(self.dset_dir)[i%num_classes]
-                        idx_within_class = i//num_classes
-                        fname = given_fname if given_fname != 'none' else listdir(join(self.dset_dir,class_dir))[idx_within_class]
-                    fpath = join(self.dset_dir,class_dir,fname)
-                elif self.dset=='dtd':
-                    try:
-                        fname = given_fname if given_fname != 'none' else listdir(self.dset_dir)[i]
-                    except IndexError:
-                        print(f"have run out of images, at image number {i}")
-                        sys.exit()
-                    fpath = join(self.dset_dir,fname)
+            if self.dset=='im':
+                num_classes = len(listdir(self.dset_dir))
+                if select_randomly:
+                    class_dir = np.random.choice(listdir(self.dset_dir))
+                    fname = np.random.choice(listdir(join(self.dset_dir,class_dir)))
+                else:
+                    class_dir = given_class_dir if given_class_dir != 'none' else listdir(self.dset_dir)[i%num_classes]
+                    idx_within_class = i//num_classes
+                    fname = given_fname if given_fname != 'none' else listdir(join(self.dset_dir,class_dir))[idx_within_class]
+                fpath = join(self.dset_dir,class_dir,fname)
                 im = load_fpath(fpath,self.resize,downsample)
                 im = im/255
                 if im.ndim == 2:
