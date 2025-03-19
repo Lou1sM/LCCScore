@@ -7,6 +7,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 from numpy import log2
 from .utils import opt_cost_from_discrete_seq
+import warnings
+from sklearn.exceptions import ConvergenceWarning
+warnings.filterwarnings("ignore", category=ConvergenceWarning,
+                       message="Number of distinct clusters.*found smaller than n_clusters.*")
+warnings.filterwarnings("ignore", category=ConvergenceWarning,
+                       message="Best performing initialization did not converge.*")
 
 np.random.seed(0)
 
@@ -91,20 +97,20 @@ class ContinuousLCCMeasurer():
         if self.verbose:
             print('number pixel-likes to cluster:', N)
             print('number different pixel-likes:', nz)
-        if nz > max(self.thresh_nz, 50):
-            breakpoint()
-            x = PCA(50).fit_transform(x)
         if nz > max(self.thresh_nz, 3):
             dim_red_start_time = time()
-            x = PCA(self.thresh_nz).fit_transform(x)
+            if len(np.unique(x)) == 1:
+                x = x[:,:2]
+            else:
+                x = PCA(self.thresh_nz).fit_transform(x)
             if self.print_times:
                 print(f'dim red time: {time()-dim_red_start_time:.2f}')
         N, nz = x.shape
         self.nz = nz
         data_range = x.max() - x.min()
-        self.len_of_each_cluster = 2 * nz * (log2(data_range) + self.bit_prec) # Float precision
-        self.len_of_outlier = nz * (log2(data_range) + self.bit_prec)
-        #self.best_cost = N*self.len_of_outlier # Could call everything an outlier and have no clusters
+        float_cost = 0 if data_range==0 else log2(data_range) + self.bit_prec
+        self.len_of_each_cluster = 2 * nz * float_cost
+        self.len_of_outlier = nz * float_cost
         self.best_cost = N*self.len_of_outlier
         self.best_model_cost = 0
         self.best_nc = 0

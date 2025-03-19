@@ -32,7 +32,6 @@ comp_meas = ContinuousLCCMeasurer(ncs_to_check=8,
                                is_mdl_abl=False,
                                print_times=False,
                                display_cluster_label_imgs=False,
-                               display_scattered_clusters=False,
                                suppress_all_prints=True,
                                verbose=ARGS.verbose)
 
