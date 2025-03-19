@@ -1,6 +1,5 @@
 from time import time
 from matplotlib.colors import BASE_COLORS
-from dl_utils.misc import scatter_clusters
 from sklearn.decomposition import PCA
 from sklearn.mixture import GaussianMixture as GMM
 from sklearn.cluster import KMeans
@@ -15,8 +14,7 @@ PALETTE = list(BASE_COLORS.values()) + [(0,0.5,1),(1,0.5,0)]
 class ContinuousLCCMeasurer():
     def __init__(self, ncs_to_check, n_levels, cluster_model, n_cluster_inits=1, nz=2,
                     display_cluster_label_imgs=False,suppress_all_prints=False,
-                    verbose=False, display_scattered_clusters=False, print_times=False,
-                    cluster_verbose=False, is_mdl_abl=False):
+                    verbose=False, print_times=False, cluster_verbose=False, is_mdl_abl=False):
 
         self.verbose = verbose
         self.cluster_verbose = cluster_verbose
@@ -25,7 +23,6 @@ class ContinuousLCCMeasurer():
         self.print_times = print_times
         self.n_cluster_inits = n_cluster_inits
         self.display_cluster_label_imgs = display_cluster_label_imgs
-        self.display_scattered_clusters = display_scattered_clusters
         self.ncs_to_check = ncs_to_check
         self.thresh_nz = nz
         assert cluster_model in ['kmeans','cmeans','gmm']
@@ -195,8 +192,6 @@ class ContinuousLCCMeasurer():
                     if not self.suppress_all_prints:
                         print(f'trying again with reg_covar {self.model.reg_covar}')
             found_nc = len(np.unique(self.cluster_labels))
-            if nc > 1 and self.display_scattered_clusters:
-                scatter_clusters(x, self.best_cluster_labels.flatten(), show=True)
             self.model_cost = nc*(self.len_of_each_cluster)
             new_model_scores = -self.model._estimate_log_prob(x)[np.arange(len(x)), self.cluster_labels] * log2(np.e)
             neg_log_probs = new_model_scores + self.nz*self.bit_prec
